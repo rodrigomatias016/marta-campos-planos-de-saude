@@ -7,7 +7,7 @@ Landing page profissional para Marta Campos, consultora especializada em planos 
 Site institucional com as seguintes secoes:
 
 - **Hero** - Apresentacao e chamada principal
-- **Operadoras** - 12 operadoras parceiras (Bradesco, SulAmerica, Amil, Hapvida, Unimed, Porto Saude, Alice, Omint, Golden Cross, Prevent Senior, MedSenior, Care Plus)
+- **Operadoras** - 11 operadoras parceiras (Bradesco, SulAmerica, Amil, Hapvida, Unimed, Porto Saude, Alice, Omint, Prevent Senior, MedSenior, Biovida)
 - **Planos** - Individual/MEI, Familiar e Empresarial/PME
 - **Diferenciais** - 6 diferenciais da consultoria
 - **Depoimentos** - Avaliacoes de clientes
